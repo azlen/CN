@@ -8,7 +8,7 @@
     "cjk-unihan": "^0.0.2-a",
     "cors": "^2.8.5",
     "csv-parse": "^4.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "hanzi": "^2.1.0",
     "iniparser": "^1.0.5",
     "n-readlines": "^1.0.0",
